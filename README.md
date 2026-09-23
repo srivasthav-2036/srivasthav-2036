@@ -88,7 +88,7 @@ Outside of projects, I spend time strengthening my **DSA and core CS fundamental
 
 <div align="center">
 
-**Open to AI/ML and Software Engineering opportunities.**
+**Open to AI&ML and Software Engineering opportunities.**
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivasthav-t-2036m/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivasthav.thatikonda@gmail.com)
