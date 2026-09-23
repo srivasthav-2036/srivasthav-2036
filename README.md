@@ -67,6 +67,7 @@ Outside of projects, I spend time strengthening my **DSA and core CS fundamental
 | **[RoleRadar](https://github.com/srivasthav-2036/RoleRadar)** | AI-powered job discovery and recommendation platform with automated job fetching, resume understanding, semantic matching, and personalized recommendations | Python · Groq · Jina AI · TiDB · FastAPI |
 | **[AutoAnalytx](https://github.com/srivasthav-2036/autoanalytx)** | Agentic AI data analyst that lets users ask questions in natural language and automatically analyzes datasets, generates insights, and creates visualizations | Python · LangChain · LangGraph · Groq · Streamlit |
 | **[MedPal](https://github.com/srivasthav-2036/medpal)** | AI-powered healthcare assistant designed to help users understand health information through an accessible conversational interface | Python · Flask · SQLite · NLP |
+| **[Terms & Conditions Analyzer](https://github.com/srivasthav-2036/terms-conditions-analyzer)** | AI-powered tool that helps users understand complex Terms & Conditions by summarizing key points, highlighting risky clauses and potential consequences, and enabling interactive Q&A | Python · LangChain · Streamlit · JavaScript · LLMs |
 | **[Career Fit](https://github.com/srivasthav-2036/ai-career-recommender)** | ML-based career recommendation system that analyzes user profiles and matches them with relevant career opportunities | Python · NLP · Scikit-learn · Sentence Transformers |
 
 ---
@@ -75,11 +76,9 @@ Outside of projects, I spend time strengthening my **DSA and core CS fundamental
 
 <div align="center">
 
-
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=srivasthav-2036&theme=tokyonight&hide_border=true" />
 
 <br/>
-
 
 </div>
 
